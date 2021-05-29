@@ -180,7 +180,7 @@ namespace Messenger
                     }
                     catch(Exception e)
                     {
-
+                        Console.WriteLine(e);
                     }
                 }
             }

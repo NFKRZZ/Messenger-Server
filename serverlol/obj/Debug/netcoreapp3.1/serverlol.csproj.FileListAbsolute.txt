@@ -20,7 +20,6 @@ C:\Users\winga\source\repos\serverlol\serverlol\bin\Debug\netcoreapp3.1\runtimes
 C:\Users\winga\source\repos\serverlol\serverlol\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\winga\source\repos\serverlol\serverlol\bin\Debug\netcoreapp3.1\protobuf-net.dll
 C:\Users\winga\source\repos\serverlol\serverlol\bin\Debug\netcoreapp3.1\protobuf-net.Core.dll
-C:\Users\winga\source\repos\serverlol\serverlol\obj\Debug\netcoreapp3.1\serverlol.csprojAssemblyReference.cache
 C:\Users\winga\source\repos\serverlol\serverlol\bin\Debug\netcoreapp3.1\NAudio.dll
 C:\Users\winga\source\repos\serverlol\serverlol\bin\Debug\netcoreapp3.1\NAudio.Asio.dll
 C:\Users\winga\source\repos\serverlol\serverlol\bin\Debug\netcoreapp3.1\NAudio.Core.dll
@@ -28,3 +27,5 @@ C:\Users\winga\source\repos\serverlol\serverlol\bin\Debug\netcoreapp3.1\NAudio.M
 C:\Users\winga\source\repos\serverlol\serverlol\bin\Debug\netcoreapp3.1\NAudio.Wasapi.dll
 C:\Users\winga\source\repos\serverlol\serverlol\bin\Debug\netcoreapp3.1\NAudio.WinForms.dll
 C:\Users\winga\source\repos\serverlol\serverlol\bin\Debug\netcoreapp3.1\NAudio.WinMM.dll
+C:\Users\winga\source\repos\serverlol\serverlol\obj\Debug\netcoreapp3.1\serverlol.csproj.AssemblyReference.cache
+C:\Users\winga\source\repos\serverlol\serverlol\obj\Debug\netcoreapp3.1\serverlol.GeneratedMSBuildEditorConfig.editorconfig

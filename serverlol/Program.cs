@@ -180,7 +180,14 @@ namespace Messenger
                     }
                     catch(Exception e)
                     {
-                        Console.WriteLine(e);
+                        if (e is System.IO.IOException)
+                        {
+                            break;
+                        }
+                        else
+                        {
+                            Console.WriteLine(e);
+                        }
                     }
                 }
             }
@@ -188,6 +195,7 @@ namespace Messenger
             {
                 Console.WriteLine("ERROR: " + e);
             }
+            Console.WriteLine("BREAKING OUT!!!!!!!!");
         }
         static void Kick(TcpClient client)
         {
